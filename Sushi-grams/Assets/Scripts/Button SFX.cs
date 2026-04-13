@@ -4,12 +4,11 @@ using UnityEngine.UI;
 public class ButtonSFX : MonoBehaviour
 {
    public AudioSource audioSource;
-   public Button button;
    void Start()
    {
-       button.onClick.AddListener(PlaySound);
+       audioSource = GetComponent<AudioSource>();
    }
-   void PlaySound()
+   public void PlaySound()
    {
        audioSource.Play();
    }
