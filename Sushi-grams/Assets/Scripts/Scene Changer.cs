@@ -5,7 +5,7 @@ public class SceneChanger : MonoBehaviour
 {
     public void ChangeScene(string sceneName)
     {
-        StartCoroutine(WaitToChangeScene(1.0f, sceneName));
+        StartCoroutine(WaitToChangeScene(0.5f, sceneName));
     }
 
     IEnumerator WaitToChangeScene(float waitTime, string sceneName)
