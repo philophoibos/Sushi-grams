@@ -1,0 +1,4524 @@
+fileFormatVersion: 2
+guid: 60927dbd3d7db5a4a85ce49f004c471e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9024062625567222411
+    second: Sushigram_Graphics_Fonts_0
+  - first:
+      213: 9085044577936355284
+    second: Sushigram_Graphics_Fonts_1
+  - first:
+      213: -8634408949488522204
+    second: Sushigram_Graphics_Fonts_2
+  - first:
+      213: -6767345832475877666
+    second: Sushigram_Graphics_Fonts_3
+  - first:
+      213: 4563320818096771227
+    second: Sushigram_Graphics_Fonts_4
+  - first:
+      213: -2198108954113041039
+    second: Sushigram_Graphics_Fonts_5
+  - first:
+      213: -1600378159157094753
+    second: Sushigram_Graphics_Fonts_6
+  - first:
+      213: -2218636111645095261
+    second: Sushigram_Graphics_Fonts_7
+  - first:
+      213: -5841570624027847475
+    second: Sushigram_Graphics_Fonts_8
+  - first:
+      213: -6152331460554490023
+    second: Sushigram_Graphics_Fonts_9
+  - first:
+      213: 6128116895356850030
+    second: Sushigram_Graphics_Fonts_10
+  - first:
+      213: -3607556653840464035
+    second: Sushigram_Graphics_Fonts_11
+  - first:
+      213: 1346306064072627905
+    second: Sushigram_Graphics_Fonts_12
+  - first:
+      213: 8294609018826133895
+    second: Sushigram_Graphics_Fonts_13
+  - first:
+      213: 6080953924493571595
+    second: Sushigram_Graphics_Fonts_14
+  - first:
+      213: 4067906407086497134
+    second: Sushigram_Graphics_Fonts_15
+  - first:
+      213: -1112872632988026602
+    second: Sushigram_Graphics_Fonts_16
+  - first:
+      213: -5649207848387117381
+    second: Sushigram_Graphics_Fonts_17
+  - first:
+      213: -1300828699966643569
+    second: Sushigram_Graphics_Fonts_18
+  - first:
+      213: -7406971372597667319
+    second: Sushigram_Graphics_Fonts_19
+  - first:
+      213: -6434199137173075540
+    second: Sushigram_Graphics_Fonts_20
+  - first:
+      213: -3450322581078901152
+    second: Sushigram_Graphics_Fonts_21
+  - first:
+      213: -4063754370702931778
+    second: Sushigram_Graphics_Fonts_22
+  - first:
+      213: -2370992383600927971
+    second: Sushigram_Graphics_Fonts_23
+  - first:
+      213: -8789019058181012753
+    second: Sushigram_Graphics_Fonts_24
+  - first:
+      213: 8419021174196105867
+    second: Sushigram_Graphics_Fonts_25
+  - first:
+      213: 1354382271329320876
+    second: Sushigram_Graphics_Fonts_26
+  - first:
+      213: 862810701440351081
+    second: Sushigram_Graphics_Fonts_27
+  - first:
+      213: 1287653371243293500
+    second: Sushigram_Graphics_Fonts_28
+  - first:
+      213: 6551223885236184222
+    second: Sushigram_Graphics_Fonts_29
+  - first:
+      213: 7836693699745513088
+    second: Sushigram_Graphics_Fonts_30
+  - first:
+      213: -8463736350179989946
+    second: Sushigram_Graphics_Fonts_31
+  - first:
+      213: 6185103477490057107
+    second: Sushigram_Graphics_Fonts_32
+  - first:
+      213: -6324428243246136116
+    second: Sushigram_Graphics_Fonts_33
+  - first:
+      213: -8195507459651881232
+    second: Sushigram_Graphics_Fonts_34
+  - first:
+      213: 6205138868296841093
+    second: Sushigram_Graphics_Fonts_35
+  - first:
+      213: 6996534388613807270
+    second: Sushigram_Graphics_Fonts_36
+  - first:
+      213: 4144837838884764195
+    second: Sushigram_Graphics_Fonts_37
+  - first:
+      213: 8116335139950040300
+    second: Sushigram_Graphics_Fonts_38
+  - first:
+      213: 5246065072316364625
+    second: Sushigram_Graphics_Fonts_39
+  - first:
+      213: -3648120309800471230
+    second: Sushigram_Graphics_Fonts_40
+  - first:
+      213: 7341173691418317448
+    second: Sushigram_Graphics_Fonts_41
+  - first:
+      213: -8672191336658749884
+    second: Sushigram_Graphics_Fonts_42
+  - first:
+      213: -1537812785451935633
+    second: Sushigram_Graphics_Fonts_43
+  - first:
+      213: 8734111059118464467
+    second: Sushigram_Graphics_Fonts_44
+  - first:
+      213: 8694283319830484846
+    second: Sushigram_Graphics_Fonts_45
+  - first:
+      213: -143704120987324844
+    second: Sushigram_Graphics_Fonts_46
+  - first:
+      213: -7808734409446098722
+    second: Sushigram_Graphics_Fonts_47
+  - first:
+      213: -7597747725134509237
+    second: Sushigram_Graphics_Fonts_48
+  - first:
+      213: -3766992433639159132
+    second: Sushigram_Graphics_Fonts_49
+  - first:
+      213: -5170878592867694049
+    second: Sushigram_Graphics_Fonts_50
+  - first:
+      213: -4933724613626021594
+    second: Sushigram_Graphics_Fonts_51
+  - first:
+      213: 5867857120137579724
+    second: Sushigram_Graphics_Fonts_52
+  - first:
+      213: -3601184871019234477
+    second: Sushigram_Graphics_Fonts_53
+  - first:
+      213: 1795833837515416798
+    second: Sushigram_Graphics_Fonts_54
+  - first:
+      213: -1439922964716015456
+    second: Sushigram_Graphics_Fonts_55
+  - first:
+      213: -137893134301964435
+    second: Sushigram_Graphics_Fonts_56
+  - first:
+      213: 4520564701396822739
+    second: Sushigram_Graphics_Fonts_57
+  - first:
+      213: 1415192381807021960
+    second: Sushigram_Graphics_Fonts_58
+  - first:
+      213: 2473304662278882823
+    second: Sushigram_Graphics_Fonts_59
+  - first:
+      213: -5678286704734649020
+    second: Sushigram_Graphics_Fonts_60
+  - first:
+      213: -6161008209607803501
+    second: Sushigram_Graphics_Fonts_61
+  - first:
+      213: 4840070160159638342
+    second: Sushigram_Graphics_Fonts_62
+  - first:
+      213: -8527931664590089776
+    second: Sushigram_Graphics_Fonts_63
+  - first:
+      213: 3891513102407446705
+    second: Sushigram_Graphics_Fonts_64
+  - first:
+      213: 4639412082702459438
+    second: Sushigram_Graphics_Fonts_65
+  - first:
+      213: 2964429196347695456
+    second: Sushigram_Graphics_Fonts_66
+  - first:
+      213: 2382528455845804833
+    second: Sushigram_Graphics_Fonts_67
+  - first:
+      213: -2191736503402321125
+    second: Sushigram_Graphics_Fonts_68
+  - first:
+      213: -8856945405295683251
+    second: Sushigram_Graphics_Fonts_69
+  - first:
+      213: -2683706861577601166
+    second: Sushigram_Graphics_Fonts_70
+  - first:
+      213: -5525205243126327809
+    second: Sushigram_Graphics_Fonts_71
+  - first:
+      213: 3160374383526755166
+    second: Sushigram_Graphics_Fonts_72
+  - first:
+      213: -1617725061980818090
+    second: Sushigram_Graphics_Fonts_73
+  - first:
+      213: 8491713474965886988
+    second: Sushigram_Graphics_Fonts_74
+  - first:
+      213: 3796365528013919698
+    second: Sushigram_Graphics_Fonts_75
+  - first:
+      213: 478681789429213794
+    second: Sushigram_Graphics_Fonts_76
+  - first:
+      213: -1729662006569392251
+    second: Sushigram_Graphics_Fonts_77
+  - first:
+      213: -7032053615024070231
+    second: Sushigram_Graphics_Fonts_78
+  - first:
+      213: 7947935770718118351
+    second: Sushigram_Graphics_Fonts_79
+  - first:
+      213: 2089627001860566858
+    second: Sushigram_Graphics_Fonts_80
+  - first:
+      213: -3377297843049476404
+    second: Sushigram_Graphics_Fonts_81
+  - first:
+      213: -2237080190260713768
+    second: Sushigram_Graphics_Fonts_82
+  - first:
+      213: -8766740686371273283
+    second: Sushigram_Graphics_Fonts_83
+  - first:
+      213: -746874110204492950
+    second: Sushigram_Graphics_Fonts_84
+  - first:
+      213: 729776689601396151
+    second: Sushigram_Graphics_Fonts_85
+  - first:
+      213: 4914463610234389488
+    second: Sushigram_Graphics_Fonts_86
+  - first:
+      213: 1434370679294654460
+    second: Sushigram_Graphics_Fonts_87
+  - first:
+      213: -4503099457399491094
+    second: Sushigram_Graphics_Fonts_88
+  - first:
+      213: 6963522918516634583
+    second: Sushigram_Graphics_Fonts_89
+  - first:
+      213: 1760027445795117086
+    second: Sushigram_Graphics_Fonts_90
+  - first:
+      213: -6325805949655418232
+    second: Sushigram_Graphics_Fonts_91
+  - first:
+      213: -4980523796880412734
+    second: Sushigram_Graphics_Fonts_92
+  - first:
+      213: 6093732282386281325
+    second: Sushigram_Graphics_Fonts_93
+  - first:
+      213: -4481841640070301053
+    second: Sushigram_Graphics_Fonts_94
+  - first:
+      213: 7336896249918322053
+    second: Sushigram_Graphics_Fonts_95
+  - first:
+      213: 3899815912218437080
+    second: Sushigram_Graphics_Fonts_96
+  - first:
+      213: -814693891508158734
+    second: Sushigram_Graphics_Fonts_97
+  - first:
+      213: 978313149995681777
+    second: Sushigram_Graphics_Fonts_98
+  - first:
+      213: 4803914440761454656
+    second: Sushigram_Graphics_Fonts_99
+  - first:
+      213: 5488579274731319584
+    second: Sushigram_Graphics_Fonts_100
+  - first:
+      213: -2675315229328556226
+    second: Sushigram_Graphics_Fonts_101
+  - first:
+      213: 7575997985188702850
+    second: Sushigram_Graphics_Fonts_102
+  - first:
+      213: -2275355100303584245
+    second: Sushigram_Graphics_Fonts_103
+  - first:
+      213: 5902765829438675910
+    second: Sushigram_Graphics_Fonts_104
+  - first:
+      213: 1217279976915685137
+    second: Sushigram_Graphics_Fonts_105
+  - first:
+      213: -77607065723229669
+    second: Sushigram_Graphics_Fonts_106
+  - first:
+      213: 2613779492260052257
+    second: Sushigram_Graphics_Fonts_107
+  - first:
+      213: -738939608394636219
+    second: Sushigram_Graphics_Fonts_108
+  - first:
+      213: 7827835360293697983
+    second: Sushigram_Graphics_Fonts_109
+  - first:
+      213: -3057723234194656329
+    second: Sushigram_Graphics_Fonts_110
+  - first:
+      213: -1169874241312939005
+    second: Sushigram_Graphics_Fonts_111
+  - first:
+      213: -4218912007813579673
+    second: Sushigram_Graphics_Fonts_112
+  - first:
+      213: 7361707714430712928
+    second: Sushigram_Graphics_Fonts_113
+  - first:
+      213: 1604350866887461361
+    second: Sushigram_Graphics_Fonts_114
+  - first:
+      213: -2109684398120174982
+    second: Sushigram_Graphics_Fonts_115
+  - first:
+      213: 6760135619363638502
+    second: Sushigram_Graphics_Fonts_116
+  - first:
+      213: -5379514250612201030
+    second: Sushigram_Graphics_Fonts_117
+  - first:
+      213: 5026712051425252755
+    second: Sushigram_Graphics_Fonts_118
+  - first:
+      213: 1578494254474919268
+    second: Sushigram_Graphics_Fonts_119
+  - first:
+      213: 6307324664990408113
+    second: Sushigram_Graphics_Fonts_120
+  - first:
+      213: -8608781576109984006
+    second: Sushigram_Graphics_Fonts_121
+  - first:
+      213: -1133500261202785658
+    second: Sushigram_Graphics_Fonts_122
+  - first:
+      213: -1605719467698289541
+    second: Sushigram_Graphics_Fonts_123
+  - first:
+      213: 4441972844518881888
+    second: Sushigram_Graphics_Fonts_124
+  - first:
+      213: -6839345912390002438
+    second: Sushigram_Graphics_Fonts_125
+  - first:
+      213: -2816280113367195057
+    second: Sushigram_Graphics_Fonts_126
+  - first:
+      213: -7392514778981379610
+    second: Sushigram_Graphics_Fonts_127
+  - first:
+      213: -7306861528247771896
+    second: Sushigram_Graphics_Fonts_128
+  - first:
+      213: -2137898685606434454
+    second: Sushigram_Graphics_Fonts_129
+  - first:
+      213: -8271720627261425496
+    second: Sushigram_Graphics_Fonts_130
+  - first:
+      213: -1416217909152434338
+    second: Sushigram_Graphics_Fonts_131
+  - first:
+      213: 5987467389116573253
+    second: Sushigram_Graphics_Fonts_132
+  - first:
+      213: -8693541511428206466
+    second: Sushigram_Graphics_Fonts_133
+  - first:
+      213: -538434474537679739
+    second: Sushigram_Graphics_Fonts_134
+  - first:
+      213: 6892763329768823067
+    second: Sushigram_Graphics_Fonts_135
+  - first:
+      213: -4648709816427102676
+    second: Sushigram_Graphics_Fonts_136
+  - first:
+      213: 1666216084287092257
+    second: Sushigram_Graphics_Fonts_137
+  - first:
+      213: -4099290649089579638
+    second: Sushigram_Graphics_Fonts_138
+  - first:
+      213: 6960674000533625226
+    second: Sushigram_Graphics_Fonts_139
+  - first:
+      213: -5144594542585712588
+    second: Sushigram_Graphics_Fonts_140
+  - first:
+      213: 6689412292450430244
+    second: Sushigram_Graphics_Fonts_141
+  - first:
+      213: 8276963510029132296
+    second: Sushigram_Graphics_Fonts_142
+  - first:
+      213: -379550696892779274
+    second: Sushigram_Graphics_Fonts_143
+  - first:
+      213: -8614297931292784836
+    second: Sushigram_Graphics_Fonts_144
+  - first:
+      213: 1465409639847440882
+    second: Sushigram_Graphics_Fonts_145
+  - first:
+      213: 4432727402204185465
+    second: Sushigram_Graphics_Fonts_146
+  - first:
+      213: 4525963174917878980
+    second: Sushigram_Graphics_Fonts_147
+  - first:
+      213: -8377034031213518426
+    second: Sushigram_Graphics_Fonts_148
+  - first:
+      213: -6805630565146608252
+    second: Sushigram_Graphics_Fonts_149
+  - first:
+      213: 5354717900083445422
+    second: Sushigram_Graphics_Fonts_150
+  - first:
+      213: -7811116285836013528
+    second: Sushigram_Graphics_Fonts_151
+  - first:
+      213: -3761231651138459380
+    second: Sushigram_Graphics_Fonts_152
+  - first:
+      213: -5668189457112298533
+    second: Sushigram_Graphics_Fonts_153
+  - first:
+      213: 5317363493327120644
+    second: Sushigram_Graphics_Fonts_154
+  - first:
+      213: 5140664158022077691
+    second: Sushigram_Graphics_Fonts_155
+  - first:
+      213: 753243354583196362
+    second: Sushigram_Graphics_Fonts_156
+  - first:
+      213: -1981860240607681970
+    second: Sushigram_Graphics_Fonts_157
+  - first:
+      213: 7895728334807876847
+    second: Sushigram_Graphics_Fonts_158
+  - first:
+      213: -7251020839089166957
+    second: Sushigram_Graphics_Fonts_159
+  - first:
+      213: -5767386158563395975
+    second: Sushigram_Graphics_Fonts_160
+  - first:
+      213: -8062893338673656774
+    second: Sushigram_Graphics_Fonts_161
+  - first:
+      213: -1733887672410626656
+    second: Sushigram_Graphics_Fonts_162
+  - first:
+      213: 4800720602475042733
+    second: Sushigram_Graphics_Fonts_163
+  - first:
+      213: 4963952325750693483
+    second: Sushigram_Graphics_Fonts_164
+  - first:
+      213: 1184563800053403409
+    second: Sushigram_Graphics_Fonts_165
+  - first:
+      213: 4363866007134684834
+    second: Sushigram_Graphics_Fonts_166
+  - first:
+      213: -1542096822037726953
+    second: Sushigram_Graphics_Fonts_167
+  - first:
+      213: 9163220162425498829
+    second: Sushigram_Graphics_Fonts_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2284
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a20db7529eb3d70800000000000000
+      internalID: 9024062625567222411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2284
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df2c74b8ef841e70800000000000000
+      internalID: 9085044577936355284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2312
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c6848beca6c2880800000000000000
+      internalID: -8634408949488522204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2284
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede1e0ff1de8512a0800000000000000
+      internalID: -6767345832475877666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2284
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b909dc64b1c245f30800000000000000
+      internalID: 4563320818096771227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2284
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d9c746d8fbe71e0800000000000000
+      internalID: -2198108954113041039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2274
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96d52d1b805ac9e0800000000000000
+      internalID: -1600378159157094753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2284
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa4a871632d531e0800000000000000
+      internalID: -2218636111645095261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2284
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49678a7729eeea0800000000000000
+      internalID: -5841570624027847475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2284
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f703112278e9aa0800000000000000
+      internalID: -6152331460554490023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2284
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f80d129d17b0550800000000000000
+      internalID: 6128116895356850030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2140
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570eb446526fedc0800000000000000
+      internalID: -3607556653840464035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2141
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d0047b3a0fa210800000000000000
+      internalID: 1346306064072627905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2143
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78112e5b4fe5c1370800000000000000
+      internalID: 8294609018826133895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2140
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f4f44063e36450800000000000000
+      internalID: 6080953924493571595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2142
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1de5135b147830800000000000000
+      internalID: 4067906407086497134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2143
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619be7e8c384e80f0800000000000000
+      internalID: -1112872632988026602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2143
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7986846bf991b0800000000000000
+      internalID: -5649207848387117381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_18
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2140
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ead0803782fde0800000000000000
+      internalID: -1300828699966643569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_19
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2141
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a14dac7c6253990800000000000000
+      internalID: -7406971372597667319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2141
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca98cae79f125b6a0800000000000000
+      internalID: -6434199137173075540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_21
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2142
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e7842a4edfd10d0800000000000000
+      internalID: -3450322581078901152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_22
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2141
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88fc73ee4aa97c0800000000000000
+      internalID: -4063754370702931778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2001
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b5f4a3dfa881fd0800000000000000
+      internalID: -2370992383600927971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1998
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe28bf89bb1270680800000000000000
+      internalID: -8789019058181012753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2000
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82737ce62f56d470800000000000000
+      internalID: 8419021174196105867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2000
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbbacff7bbbc210800000000000000
+      internalID: 1354382271329320876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2061
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf1c7f2c159fb00800000000000000
+      internalID: 862810701440351081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1986
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b6aca3be9aed110800000000000000
+      internalID: 1287653371243293500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2061
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ae8be96f9aea50800000000000000
+      internalID: 6551223885236184222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_30
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1998
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e7fda366781cc60800000000000000
+      internalID: 7836693699745513088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_31
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1998
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646e5fed1a4ca8a80800000000000000
+      internalID: -8463736350179989946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_32
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1999
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ff3dab7d6e5d550800000000000000
+      internalID: 6185103477490057107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_33
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1999
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4cdd1650e1b38a0800000000000000
+      internalID: -6324428243246136116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1989
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b2691365b34e80800000000000000
+      internalID: -8195507459651881232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1975
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5877dcaace41d1650800000000000000
+      internalID: 6205138868296841093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1998
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac712c05fea81160800000000000000
+      internalID: 6996534388613807270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1976
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af25edd0c658930800000000000000
+      internalID: 4144837838884764195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1856
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce41ebebec303a070800000000000000
+      internalID: 8116335139950040300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1854
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15730007364cdc840800000000000000
+      internalID: 5246065072316364625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1853
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245747428e54f5dc0800000000000000
+      internalID: -3648120309800471230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1857
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829e6fb39611e560800000000000000
+      internalID: 7341173691418317448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1854
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4463c323def26a780800000000000000
+      internalID: -8672191336658749884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1855
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6855185b6798aae0800000000000000
+      internalID: -1537812785451935633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_44
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1857
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd1193abbbc53970800000000000000
+      internalID: 8734111059118464467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1827
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6799177d9c48a870800000000000000
+      internalID: 8694283319830484846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_46
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1857
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6ac30dd5710ef0800000000000000
+      internalID: -143704120987324844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_47
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1826
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed878935d6dc1a390800000000000000
+      internalID: -7808734409446098722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1714
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b4356d2b06f8690800000000000000
+      internalID: -7597747725134509237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1712
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8a590754f8bbc0800000000000000
+      internalID: -3766992433639159132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1712
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a0377f0595d38b0800000000000000
+      internalID: -5170878592867694049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1713
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62938399a93e78bb0800000000000000
+      internalID: -4933724613626021594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1713
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc0c8626f0de6150800000000000000
+      internalID: 5867857120137579724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1713
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b33609075060ec0800000000000000
+      internalID: -3601184871019234477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1712
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4abb84c551ce810800000000000000
+      internalID: 1795833837515416798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_55
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1713
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0bc2051bd540ce0800000000000000
+      internalID: -1439922964716015456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_56
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1714
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6757f8ccea161ef0800000000000000
+      internalID: -137893134301964435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_57
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1713
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da6dea15a54cbe30800000000000000
+      internalID: 4520564701396822739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_58
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1704
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f427629f5c3a310800000000000000
+      internalID: 1415192381807021960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_59
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1707
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70643787c71f25220800000000000000
+      internalID: 2473304662278882823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1569
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445c77fa35ca231b0800000000000000
+      internalID: -5678286704734649020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1570
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dbf000da3bf7aa0800000000000000
+      internalID: -6161008209607803501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1608
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438848ba226b2340800000000000000
+      internalID: 4840070160159638342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1571
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d15d4f7553b6a980800000000000000
+      internalID: -8527931664590089776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1547
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b036cb6c8e610630800000000000000
+      internalID: 3891513102407446705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_65
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1571
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a22465b0826040800000000000000
+      internalID: 4639412082702459438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_66
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1569
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e91ad5a4c32920800000000000000
+      internalID: 2964429196347695456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1427
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf2f5e101701120800000000000000
+      internalID: 2382528455845804833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1427
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ba27133436591e0800000000000000
+      internalID: -2191736503402321125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1428
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49925a741fc51580800000000000000
+      internalID: -8856945405295683251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_70
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1429
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f736a04de81cad0800000000000000
+      internalID: -2683706861577601166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_71
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1428
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5545cea178253b0800000000000000
+      internalID: -5525205243126327809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_72
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1426
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3b57e1c7ebdb20800000000000000
+      internalID: 3160374383526755166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_73
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1427
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f26090afac89e0800000000000000
+      internalID: -1617725061980818090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_74
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1427
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085db91a60a8d570800000000000000
+      internalID: 8491713474965886988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_75
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1428
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5dece65566fa430800000000000000
+      internalID: 3796365528013919698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_76
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1472
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a60632d8e94a600800000000000000
+      internalID: 478681789429213794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_77
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1429
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58721f4b1910ff7e0800000000000000
+      internalID: -1729662006569392251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_78
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1417
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12dfa9e70296e90800000000000000
+      internalID: -7032053615024070231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_79
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1418
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12647397dbc4e60800000000000000
+      internalID: 7947935770718118351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1330
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fa6f6dfa8dffc10800000000000000
+      internalID: 2089627001860566858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1331
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec754618d6121d0800000000000000
+      internalID: -3377297843049476404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_82
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1330
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d662756b6b44f0e0800000000000000
+      internalID: -2237080190260713768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1302
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db540ee3bc7465680800000000000000
+      internalID: -8766740686371273283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1304
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63435134f192a5f0800000000000000
+      internalID: -746874110204492950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3d0d5800b02a00800000000000000
+      internalID: 729776689601396151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1285
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3ca959d9ea33440800000000000000
+      internalID: 4914463610234389488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1135
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f79f7888e7e310800000000000000
+      internalID: 1434370679294654460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1135
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f275e6e6c181c0800000000000000
+      internalID: -4503099457399491094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_89
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1135
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3b977333763a060800000000000000
+      internalID: 6963522918516634583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_90
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1135
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e185e8d03afdc6810800000000000000
+      internalID: 1760027445795117086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1135
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7cbc11093638a0800000000000000
+      internalID: -6325805949655418232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_92
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1135
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf2093aeff91eab0800000000000000
+      internalID: -4980523796880412734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_93
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1135
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f6ff8939419450800000000000000
+      internalID: 6093732282386281325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_94
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1135
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3e0036cc4dc1c0800000000000000
+      internalID: -4481841640070301053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_95
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1003
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585f64a4444e1d560800000000000000
+      internalID: 7336896249918322053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1004
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52239f8edee1630800000000000000
+      internalID: 3899815912218437080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1004
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb9fbd830a1b4f0800000000000000
+      internalID: -814693891508158734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1004
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7069860aaa39d00800000000000000
+      internalID: 978313149995681777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_99
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1004
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b4fc4bbeeaa240800000000000000
+      internalID: 4803914440761454656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_100
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1004
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217ee745c95b2c40800000000000000
+      internalID: 5488579274731319584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_101
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1004
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fbdad29fe5fdad0800000000000000
+      internalID: -2675315229328556226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_102
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1004
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a6f36370a532960800000000000000
+      internalID: 7575997985188702850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_103
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1004
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04188477905c60e0800000000000000
+      internalID: -2275355100303584245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_104
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1004
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb91086f36dae150800000000000000
+      internalID: 5902765829438675910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_105
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 861
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f414880b5a4e010800000000000000
+      internalID: 1217279976915685137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_106
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 861
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa18fe8c84ceef0800000000000000
+      internalID: -77607065723229669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 861
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7c5d8992064420800000000000000
+      internalID: 2613779492260052257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_108
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 861
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544eb2b5752ceb5f0800000000000000
+      internalID: -738939608394636219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_109
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 861
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93c8a59ce02ac60800000000000000
+      internalID: 7827835360293697983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_110
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 861
+        width: 13
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b37e544be8c095d0800000000000000
+      internalID: -3057723234194656329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_111
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 931
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a9a66395c3cfe0800000000000000
+      internalID: -1169874241312939005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_112
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 861
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c34a3b1e96375c0800000000000000
+      internalID: -4218912007813579673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_113
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 931
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c35ea892a0a2660800000000000000
+      internalID: 7361707714430712928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_114
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 861
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9caebfc9cc34610800000000000000
+      internalID: 1604350866887461361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_115
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 861
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7afcdda735e8b2e0800000000000000
+      internalID: -2109684398120174982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_116
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 837
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec82a17783d0dd50800000000000000
+      internalID: 6760135619363638502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_117
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 861
+        width: 13
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ab1c7a402855b0800000000000000
+      internalID: -5379514250612201030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_118
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 837
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39590656af772c540800000000000000
+      internalID: 5026712051425252755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_119
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 718
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df8f54920f7e510800000000000000
+      internalID: 1578494254474919268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_120
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 718
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd10db7d5e188750800000000000000
+      internalID: 6307324664990408113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_121
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 718
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6790f84c6778880800000000000000
+      internalID: -8608781576109984006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 718
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a023a948ff440f0800000000000000
+      internalID: -1133500261202785658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_123
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 718
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b740aeec6a657b9e0800000000000000
+      internalID: -1605719467698289541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_124
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 718
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aba7b74ce05ad30800000000000000
+      internalID: 4441972844518881888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_125
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 718
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af859fb0123c511a0800000000000000
+      internalID: -6839345912390002438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_126
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 718
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4260ce78209ae8d0800000000000000
+      internalID: -2816280113367195057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_127
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 718
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e15df9c9f2886990800000000000000
+      internalID: -7392514778981379610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_128
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 694
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dd2d94720d89a90800000000000000
+      internalID: -7306861528247771896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_129
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 565
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6967a6f878a452e0800000000000000
+      internalID: -2137898685606434454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_130
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 551
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8bfca3ae1f43d80800000000000000
+      internalID: -8271720627261425496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_131
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 573
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e573c68a055985ce0800000000000000
+      internalID: -1416217909152434338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_132
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 575
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54667801ed1c71350800000000000000
+      internalID: 5987467389116573253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_133
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 575
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7095334e065a5780800000000000000
+      internalID: -8693541511428206466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_134
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 575
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848b5ab2b81788f0800000000000000
+      internalID: -538434474537679739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_135
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 575
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1995bf9ab308af50800000000000000
+      internalID: 6892763329768823067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_136
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 575
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ebdf74d077c7fb0800000000000000
+      internalID: -4648709816427102676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_137
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 575
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12679fe53b69f1710800000000000000
+      internalID: 1666216084287092257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_138
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 575
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a856fe5afd46c17c0800000000000000
+      internalID: -4099290649089579638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 433
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a899a1fcf18499060800000000000000
+      internalID: 6960674000533625226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_140
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f3cf458aba98b0800000000000000
+      internalID: -5144594542585712588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_141
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 433
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42da3a7b90195dc50800000000000000
+      internalID: 6689412292450430244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_142
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 433
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802282a857eadd270800000000000000
+      internalID: 8276963510029132296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_143
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 432
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f43471f6a09bbaf0800000000000000
+      internalID: -379550696892779274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_144
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 432
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3749e70cadd37880800000000000000
+      internalID: -8614297931292784836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_145
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 433
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13a89ad4e265410800000000000000
+      internalID: 1465409639847440882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_146
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 409
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97345823616348d30800000000000000
+      internalID: 4432727402204185465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_147
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 433
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ba7b27837fce30800000000000000
+      internalID: 4525963174917878980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_148
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 433
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1e82a9eebcebb80800000000000000
+      internalID: -8377034031213518426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_149
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d35eb0f0b8d81a0800000000000000
+      internalID: -6805630565146608252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_150
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 290
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae36e24f87cf4a40800000000000000
+      internalID: 5354717900083445422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_151
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 290
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d9738f17599390800000000000000
+      internalID: -7811116285836013528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_152
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 290
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09afebbdbb6dcbc0800000000000000
+      internalID: -3761231651138459380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_153
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 290
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb053958bb8651b0800000000000000
+      internalID: -5668189457112298533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_154
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 290
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a461bce11bc940800000000000000
+      internalID: 5317363493327120644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_155
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 290
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0d78b0de475740800000000000000
+      internalID: 5140664158022077691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_156
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 290
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ea5317de047a00800000000000000
+      internalID: 753243354583196362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_157
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 290
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42eb1c8c940f74e0800000000000000
+      internalID: -1981860240607681970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_158
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 203
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c53f4613439d60800000000000000
+      internalID: 7895728334807876847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_159
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 203
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a223e6f23f5b90800000000000000
+      internalID: -7251020839089166957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_160
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 203
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976f25088d026ffa0800000000000000
+      internalID: -5767386158563395975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_161
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 166
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4e7e3a39da1090800000000000000
+      internalID: -8062893338673656774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_162
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 162
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52985395effe7e0800000000000000
+      internalID: -1733887672410626656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_163
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79c60e3f59f9240800000000000000
+      internalID: 4800720602475042733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_164
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e1852175083e440800000000000000
+      internalID: 4963952325750693483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_165
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f48f3008a607010800000000000000
+      internalID: 1184563800053403409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_166
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 131
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a64aa243019f8c30800000000000000
+      internalID: 4363866007134684834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_167
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 147
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719be295c1f599ae0800000000000000
+      internalID: -1542096822037726953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sushigram_Graphics_Fonts_168
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 147
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca11c503c4a2f70800000000000000
+      internalID: 9163220162425498829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sushigram_Graphics_Fonts_0: 9024062625567222411
+      Sushigram_Graphics_Fonts_1: 9085044577936355284
+      Sushigram_Graphics_Fonts_10: 6128116895356850030
+      Sushigram_Graphics_Fonts_100: 5488579274731319584
+      Sushigram_Graphics_Fonts_101: -2675315229328556226
+      Sushigram_Graphics_Fonts_102: 7575997985188702850
+      Sushigram_Graphics_Fonts_103: -2275355100303584245
+      Sushigram_Graphics_Fonts_104: 5902765829438675910
+      Sushigram_Graphics_Fonts_105: 1217279976915685137
+      Sushigram_Graphics_Fonts_106: -77607065723229669
+      Sushigram_Graphics_Fonts_107: 2613779492260052257
+      Sushigram_Graphics_Fonts_108: -738939608394636219
+      Sushigram_Graphics_Fonts_109: 7827835360293697983
+      Sushigram_Graphics_Fonts_11: -3607556653840464035
+      Sushigram_Graphics_Fonts_110: -3057723234194656329
+      Sushigram_Graphics_Fonts_111: -1169874241312939005
+      Sushigram_Graphics_Fonts_112: -4218912007813579673
+      Sushigram_Graphics_Fonts_113: 7361707714430712928
+      Sushigram_Graphics_Fonts_114: 1604350866887461361
+      Sushigram_Graphics_Fonts_115: -2109684398120174982
+      Sushigram_Graphics_Fonts_116: 6760135619363638502
+      Sushigram_Graphics_Fonts_117: -5379514250612201030
+      Sushigram_Graphics_Fonts_118: 5026712051425252755
+      Sushigram_Graphics_Fonts_119: 1578494254474919268
+      Sushigram_Graphics_Fonts_12: 1346306064072627905
+      Sushigram_Graphics_Fonts_120: 6307324664990408113
+      Sushigram_Graphics_Fonts_121: -8608781576109984006
+      Sushigram_Graphics_Fonts_122: -1133500261202785658
+      Sushigram_Graphics_Fonts_123: -1605719467698289541
+      Sushigram_Graphics_Fonts_124: 4441972844518881888
+      Sushigram_Graphics_Fonts_125: -6839345912390002438
+      Sushigram_Graphics_Fonts_126: -2816280113367195057
+      Sushigram_Graphics_Fonts_127: -7392514778981379610
+      Sushigram_Graphics_Fonts_128: -7306861528247771896
+      Sushigram_Graphics_Fonts_129: -2137898685606434454
+      Sushigram_Graphics_Fonts_13: 8294609018826133895
+      Sushigram_Graphics_Fonts_130: -8271720627261425496
+      Sushigram_Graphics_Fonts_131: -1416217909152434338
+      Sushigram_Graphics_Fonts_132: 5987467389116573253
+      Sushigram_Graphics_Fonts_133: -8693541511428206466
+      Sushigram_Graphics_Fonts_134: -538434474537679739
+      Sushigram_Graphics_Fonts_135: 6892763329768823067
+      Sushigram_Graphics_Fonts_136: -4648709816427102676
+      Sushigram_Graphics_Fonts_137: 1666216084287092257
+      Sushigram_Graphics_Fonts_138: -4099290649089579638
+      Sushigram_Graphics_Fonts_139: 6960674000533625226
+      Sushigram_Graphics_Fonts_14: 6080953924493571595
+      Sushigram_Graphics_Fonts_140: -5144594542585712588
+      Sushigram_Graphics_Fonts_141: 6689412292450430244
+      Sushigram_Graphics_Fonts_142: 8276963510029132296
+      Sushigram_Graphics_Fonts_143: -379550696892779274
+      Sushigram_Graphics_Fonts_144: -8614297931292784836
+      Sushigram_Graphics_Fonts_145: 1465409639847440882
+      Sushigram_Graphics_Fonts_146: 4432727402204185465
+      Sushigram_Graphics_Fonts_147: 4525963174917878980
+      Sushigram_Graphics_Fonts_148: -8377034031213518426
+      Sushigram_Graphics_Fonts_149: -6805630565146608252
+      Sushigram_Graphics_Fonts_15: 4067906407086497134
+      Sushigram_Graphics_Fonts_150: 5354717900083445422
+      Sushigram_Graphics_Fonts_151: -7811116285836013528
+      Sushigram_Graphics_Fonts_152: -3761231651138459380
+      Sushigram_Graphics_Fonts_153: -5668189457112298533
+      Sushigram_Graphics_Fonts_154: 5317363493327120644
+      Sushigram_Graphics_Fonts_155: 5140664158022077691
+      Sushigram_Graphics_Fonts_156: 753243354583196362
+      Sushigram_Graphics_Fonts_157: -1981860240607681970
+      Sushigram_Graphics_Fonts_158: 7895728334807876847
+      Sushigram_Graphics_Fonts_159: -7251020839089166957
+      Sushigram_Graphics_Fonts_16: -1112872632988026602
+      Sushigram_Graphics_Fonts_160: -5767386158563395975
+      Sushigram_Graphics_Fonts_161: -8062893338673656774
+      Sushigram_Graphics_Fonts_162: -1733887672410626656
+      Sushigram_Graphics_Fonts_163: 4800720602475042733
+      Sushigram_Graphics_Fonts_164: 4963952325750693483
+      Sushigram_Graphics_Fonts_165: 1184563800053403409
+      Sushigram_Graphics_Fonts_166: 4363866007134684834
+      Sushigram_Graphics_Fonts_167: -1542096822037726953
+      Sushigram_Graphics_Fonts_168: 9163220162425498829
+      Sushigram_Graphics_Fonts_17: -5649207848387117381
+      Sushigram_Graphics_Fonts_18: -1300828699966643569
+      Sushigram_Graphics_Fonts_19: -7406971372597667319
+      Sushigram_Graphics_Fonts_2: -8634408949488522204
+      Sushigram_Graphics_Fonts_20: -6434199137173075540
+      Sushigram_Graphics_Fonts_21: -3450322581078901152
+      Sushigram_Graphics_Fonts_22: -4063754370702931778
+      Sushigram_Graphics_Fonts_23: -2370992383600927971
+      Sushigram_Graphics_Fonts_24: -8789019058181012753
+      Sushigram_Graphics_Fonts_25: 8419021174196105867
+      Sushigram_Graphics_Fonts_26: 1354382271329320876
+      Sushigram_Graphics_Fonts_27: 862810701440351081
+      Sushigram_Graphics_Fonts_28: 1287653371243293500
+      Sushigram_Graphics_Fonts_29: 6551223885236184222
+      Sushigram_Graphics_Fonts_3: -6767345832475877666
+      Sushigram_Graphics_Fonts_30: 7836693699745513088
+      Sushigram_Graphics_Fonts_31: -8463736350179989946
+      Sushigram_Graphics_Fonts_32: 6185103477490057107
+      Sushigram_Graphics_Fonts_33: -6324428243246136116
+      Sushigram_Graphics_Fonts_34: -8195507459651881232
+      Sushigram_Graphics_Fonts_35: 6205138868296841093
+      Sushigram_Graphics_Fonts_36: 6996534388613807270
+      Sushigram_Graphics_Fonts_37: 4144837838884764195
+      Sushigram_Graphics_Fonts_38: 8116335139950040300
+      Sushigram_Graphics_Fonts_39: 5246065072316364625
+      Sushigram_Graphics_Fonts_4: 4563320818096771227
+      Sushigram_Graphics_Fonts_40: -3648120309800471230
+      Sushigram_Graphics_Fonts_41: 7341173691418317448
+      Sushigram_Graphics_Fonts_42: -8672191336658749884
+      Sushigram_Graphics_Fonts_43: -1537812785451935633
+      Sushigram_Graphics_Fonts_44: 8734111059118464467
+      Sushigram_Graphics_Fonts_45: 8694283319830484846
+      Sushigram_Graphics_Fonts_46: -143704120987324844
+      Sushigram_Graphics_Fonts_47: -7808734409446098722
+      Sushigram_Graphics_Fonts_48: -7597747725134509237
+      Sushigram_Graphics_Fonts_49: -3766992433639159132
+      Sushigram_Graphics_Fonts_5: -2198108954113041039
+      Sushigram_Graphics_Fonts_50: -5170878592867694049
+      Sushigram_Graphics_Fonts_51: -4933724613626021594
+      Sushigram_Graphics_Fonts_52: 5867857120137579724
+      Sushigram_Graphics_Fonts_53: -3601184871019234477
+      Sushigram_Graphics_Fonts_54: 1795833837515416798
+      Sushigram_Graphics_Fonts_55: -1439922964716015456
+      Sushigram_Graphics_Fonts_56: -137893134301964435
+      Sushigram_Graphics_Fonts_57: 4520564701396822739
+      Sushigram_Graphics_Fonts_58: 1415192381807021960
+      Sushigram_Graphics_Fonts_59: 2473304662278882823
+      Sushigram_Graphics_Fonts_6: -1600378159157094753
+      Sushigram_Graphics_Fonts_60: -5678286704734649020
+      Sushigram_Graphics_Fonts_61: -6161008209607803501
+      Sushigram_Graphics_Fonts_62: 4840070160159638342
+      Sushigram_Graphics_Fonts_63: -8527931664590089776
+      Sushigram_Graphics_Fonts_64: 3891513102407446705
+      Sushigram_Graphics_Fonts_65: 4639412082702459438
+      Sushigram_Graphics_Fonts_66: 2964429196347695456
+      Sushigram_Graphics_Fonts_67: 2382528455845804833
+      Sushigram_Graphics_Fonts_68: -2191736503402321125
+      Sushigram_Graphics_Fonts_69: -8856945405295683251
+      Sushigram_Graphics_Fonts_7: -2218636111645095261
+      Sushigram_Graphics_Fonts_70: -2683706861577601166
+      Sushigram_Graphics_Fonts_71: -5525205243126327809
+      Sushigram_Graphics_Fonts_72: 3160374383526755166
+      Sushigram_Graphics_Fonts_73: -1617725061980818090
+      Sushigram_Graphics_Fonts_74: 8491713474965886988
+      Sushigram_Graphics_Fonts_75: 3796365528013919698
+      Sushigram_Graphics_Fonts_76: 478681789429213794
+      Sushigram_Graphics_Fonts_77: -1729662006569392251
+      Sushigram_Graphics_Fonts_78: -7032053615024070231
+      Sushigram_Graphics_Fonts_79: 7947935770718118351
+      Sushigram_Graphics_Fonts_8: -5841570624027847475
+      Sushigram_Graphics_Fonts_80: 2089627001860566858
+      Sushigram_Graphics_Fonts_81: -3377297843049476404
+      Sushigram_Graphics_Fonts_82: -2237080190260713768
+      Sushigram_Graphics_Fonts_83: -8766740686371273283
+      Sushigram_Graphics_Fonts_84: -746874110204492950
+      Sushigram_Graphics_Fonts_85: 729776689601396151
+      Sushigram_Graphics_Fonts_86: 4914463610234389488
+      Sushigram_Graphics_Fonts_87: 1434370679294654460
+      Sushigram_Graphics_Fonts_88: -4503099457399491094
+      Sushigram_Graphics_Fonts_89: 6963522918516634583
+      Sushigram_Graphics_Fonts_9: -6152331460554490023
+      Sushigram_Graphics_Fonts_90: 1760027445795117086
+      Sushigram_Graphics_Fonts_91: -6325805949655418232
+      Sushigram_Graphics_Fonts_92: -4980523796880412734
+      Sushigram_Graphics_Fonts_93: 6093732282386281325
+      Sushigram_Graphics_Fonts_94: -4481841640070301053
+      Sushigram_Graphics_Fonts_95: 7336896249918322053
+      Sushigram_Graphics_Fonts_96: 3899815912218437080
+      Sushigram_Graphics_Fonts_97: -814693891508158734
+      Sushigram_Graphics_Fonts_98: 978313149995681777
+      Sushigram_Graphics_Fonts_99: 4803914440761454656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
