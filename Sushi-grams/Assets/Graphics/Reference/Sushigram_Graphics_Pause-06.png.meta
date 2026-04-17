@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Pause-06.png.meta
 guid: 5721d86e35119ad418f0bba301a97f3f
+=======
+guid: d29bab3e58c344832bd7444048159163
+>>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Pause-06.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Pause-06.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Pause-06.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

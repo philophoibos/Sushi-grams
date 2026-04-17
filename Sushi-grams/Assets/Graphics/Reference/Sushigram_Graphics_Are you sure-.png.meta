@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Are you sure-.png.meta
 guid: 1ac79c9b407dc1e4393bed3ce9d021eb
+=======
+guid: 3ad2e4882e8264158b0df67debff16e6
+>>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Are you sure-.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Are you sure-.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Are you sure-.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

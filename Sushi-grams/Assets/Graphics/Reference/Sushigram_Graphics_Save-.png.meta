@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Save-.png.meta
 guid: 5cd30d1506dd1a94ab6d3df7a100c5a8
+=======
+guid: 84dcc2b6bda504165af8112d68a5e9c8
+>>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Save-.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Save-.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Save-.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
