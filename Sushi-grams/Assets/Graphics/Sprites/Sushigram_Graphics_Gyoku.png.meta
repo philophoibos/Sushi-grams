@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics_Gyoku.png.meta
 guid: fa07b974c3e90ce4c83e6a026ba222a0
-=======
-guid: 94cfaa10bf8b34361be6acf3e9babb43
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics_Gyoku.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,22 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics_Gyoku.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics_Gyoku.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

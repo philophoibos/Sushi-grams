@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics_Logotype without chopsticks.png.meta
 guid: 008e1944eebd7e74db73bf08f7555947
-=======
-guid: 1f28e4464248a4106b070bacf0c9a0fd
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics_Logotype without chopsticks.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,22 +96,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics_Logotype without chopsticks.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics_Logotype without chopsticks.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

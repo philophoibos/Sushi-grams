@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics-Old Logotype Chopsticks.png.meta
-guid: 55a18e927bb0e4145873e6d87352ba08
-=======
-guid: 0d8befcb92c3f4d77bcfdbe88131de9a
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics-Old Logotype Chopsticks.png.meta
+guid: a30e90fe8337c48cbb50b7bd81cd43b1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5603296130349962946
-    second: Sushigram_Graphics-Old Logotype Chopsticks_0
+      213: 2354179229238578423
+    second: Sushigram_Graphics_Gyoku Item Info_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,33 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics-Old Logotype Chopsticks.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics-Old Logotype Chopsticks.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sushigram_Graphics-Old Logotype Chopsticks_0
+      name: Sushigram_Graphics_Gyoku Item Info_0
       rect:
         serializedVersion: 2
-        x: 227
-        y: 86
-        width: 1241
-        height: 1109
+        x: 0
+        y: 0
+        width: 1085
+        height: 2400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c694dc9428e2cd40800000000000000
-      internalID: 5603296130349962946
+      spriteID: 7fc4e583989bba020800000000000000
+      internalID: 2354179229238578423
       vertices: []
       indices: 
       edges: []
@@ -155,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sushigram_Graphics-Old Logotype Chopsticks_0: 5603296130349962946
+      Sushigram_Graphics_Gyoku Item Info_0: 2354179229238578423
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

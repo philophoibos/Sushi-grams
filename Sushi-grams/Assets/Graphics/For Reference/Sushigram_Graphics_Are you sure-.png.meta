@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Pause-06.png.meta
-guid: 5721d86e35119ad418f0bba301a97f3f
-=======
-guid: d29bab3e58c344832bd7444048159163
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Pause-06.png.meta
+guid: 2c80d2d30d1cd46c8b87179d41335574
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -668700029945208307
-    second: Sushigram_Graphics_Pause-06_0
+      213: -7803495399874216063
+    second: Sushigram_Graphics_Are you sure-_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,27 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Pause-06.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Pause-06.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sushigram_Graphics_Pause-06_0
+      name: Sushigram_Graphics_Are you sure-_0
       rect:
         serializedVersion: 2
         x: 0
@@ -135,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d02a2dd9ddc48b6f0800000000000000
-      internalID: -668700029945208307
+      spriteID: 18f3a1c474a64b390800000000000000
+      internalID: -7803495399874216063
       vertices: []
       indices: 
       edges: []
@@ -155,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sushigram_Graphics_Pause-06_0: -668700029945208307
+      Sushigram_Graphics_Are you sure-_0: -7803495399874216063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

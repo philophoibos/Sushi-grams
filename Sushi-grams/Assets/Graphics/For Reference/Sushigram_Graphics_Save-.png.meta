@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics_Old Logotype.png.meta
-guid: 0812b0e679864f84dac2e4c9146cfa57
-=======
-guid: ec85a712221f1499d807754bccad4a0e
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics_Old Logotype.png.meta
+guid: 778412fbee54b42d6b5ed52f8cec819e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8396526940565616726
-    second: Sushigram_Graphics_Old Logotype_0
+      213: -7958718998242132058
+    second: Sushigram_Graphics_Save-_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,33 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Sprites/Sushigram_Graphics_Old Logotype.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/Sprites/Sushigram_Graphics_Old Logotype.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sushigram_Graphics_Old Logotype_0
+      name: Sushigram_Graphics_Save-_0
       rect:
         serializedVersion: 2
-        x: 140
-        y: 73
-        width: 542
-        height: 383
+        x: 0
+        y: 0
+        width: 1085
+        height: 2400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 658396704c4768470800000000000000
-      internalID: 8396526940565616726
+      spriteID: 6afff9afc33fc8190800000000000000
+      internalID: -7958718998242132058
       vertices: []
       indices: 
       edges: []
@@ -155,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sushigram_Graphics_Old Logotype_0: 8396526940565616726
+      Sushigram_Graphics_Save-_0: -7958718998242132058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

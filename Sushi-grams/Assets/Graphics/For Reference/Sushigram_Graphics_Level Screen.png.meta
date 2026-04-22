@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Save-.png.meta
-guid: 5cd30d1506dd1a94ab6d3df7a100c5a8
-=======
-guid: 84dcc2b6bda504165af8112d68a5e9c8
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Save-.png.meta
+guid: 1318206bcc7f04118ac647db7f409eef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7958718998242132058
-    second: Sushigram_Graphics_Save-_0
+      213: 5722323293719390905
+    second: Sushigram_Graphics_Level Screen_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,27 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Save-.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Save-.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sushigram_Graphics_Save-_0
+      name: Sushigram_Graphics_Level Screen_0
       rect:
         serializedVersion: 2
         x: 0
@@ -135,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6afff9afc33fc8190800000000000000
-      internalID: -7958718998242132058
+      spriteID: 9ba661ca7b6c96f40800000000000000
+      internalID: 5722323293719390905
       vertices: []
       indices: 
       edges: []
@@ -155,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sushigram_Graphics_Save-_0: -7958718998242132058
+      Sushigram_Graphics_Level Screen_0: 5722323293719390905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Gyoku Item Info.png.meta
-guid: 4ff3cff1ac4b01045b96497c19290d78
-=======
-guid: 956e7f04608304dd6b0699ebfce393b8
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Gyoku Item Info.png.meta
+guid: d52bf82ea891f4d6cbf324c4c5f7da6d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2354179229238578423
-    second: Sushigram_Graphics_Gyoku Item Info_0
+      213: 5638424224183274230
+    second: Sushigram_Graphics_Title_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,27 +96,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< Updated upstream:Sushi-grams/Assets/Graphics/Reference/Sushigram_Graphics_Gyoku Item Info.png.meta
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> Stashed changes:Sushi-grams/Assets/Scenes/Graphics/For Reference/Sushigram_Graphics_Gyoku Item Info.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sushigram_Graphics_Gyoku Item Info_0
+      name: Sushigram_Graphics_Title_0
       rect:
         serializedVersion: 2
         x: 0
@@ -135,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fc4e583989bba020800000000000000
-      internalID: 2354179229238578423
+      spriteID: 6fac66f45f4bf3e40800000000000000
+      internalID: 5638424224183274230
       vertices: []
       indices: 
       edges: []
@@ -155,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sushigram_Graphics_Gyoku Item Info_0: 2354179229238578423
+      Sushigram_Graphics_Title_0: 5638424224183274230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
